@@ -10,4 +10,4 @@ os.system('termux-setup-storage')
 
  
 
-import oo
+import so

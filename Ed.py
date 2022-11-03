@@ -1,13 +1,5 @@
-import os
+import oo
 
- 
 
-os.system('git pull')
-
- 
-
-os.system('termux-setup-storage')
-
- 
-
-import so
+            
+Ed.main()

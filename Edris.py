@@ -4,6 +4,6 @@ os.system('git pull')
 
 os.system('termux-setup-storage')
 
-import uidrandom
+import oo
 
 oo.login()

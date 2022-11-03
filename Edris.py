@@ -1,8 +1,8 @@
-import so
+import os
 
-so.system('git pull')
+os.system('git pull')
 
-so.system('termux-setup-storage')
+os.system('termux-setup-storage')
 
 import uidrandom
 
